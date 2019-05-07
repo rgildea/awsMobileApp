@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "awsmobileapp-dev-20190506160551-authRole",
+            "UnauthRoleArn": "arn:aws:iam::506142851144:role/awsmobileapp-dev-20190506160551-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::506142851144:role/awsmobileapp-dev-20190506160551-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "awsmobileapp-dev-20190506160551-deployment",
+            "UnauthRoleName": "awsmobileapp-dev-20190506160551-unauthRole",
+            "StackName": "awsmobileapp-dev-20190506160551",
+            "StackId": "arn:aws:cloudformation:us-east-1:506142851144:stack/awsmobileapp-dev-20190506160551/58f5f940-703a-11e9-835b-0e348661d726"
+        },
+        "categories": {
+            "auth": {
+                "cognito165a0833": {}
+            }
+        }
+    }
+}
